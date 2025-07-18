@@ -20,7 +20,7 @@ Este projeto é um site de portfólio pessoal dividido em seções bem definidas
 ## 🚀 Funcionalidades
 
 - 🌐 Acesso rápido às minhas redes sociais:  
-[![](https://skillicons.dev/icons?i=linkedin,instagram,github)
+[![](https://skillicons.dev/icons?i=github,instagram,linkedin)]
 
 - 📄 **Download de Currículo**  
   Um botão permite ao usuário baixar meu currículo em PDF com apenas um clique.
