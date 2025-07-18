@@ -19,7 +19,8 @@ Este projeto é um site de portfólio pessoal dividido em seções bem definidas
 
 ## 🚀 Funcionalidades
 
-- 🌐 Acesso rápido às minhas redes sociais:  
+- 🌐 Acesso rápido às minhas redes sociais:
+
 ![](https://skillicons.dev/icons?i=github,instagram,linkedin)
 
 - 📄 **Download de Currículo**  
