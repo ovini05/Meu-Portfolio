@@ -2,7 +2,7 @@
 
 Um portfólio moderno e responsivo desenvolvido com as seguintes tecnologias:
 
-[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ---
 
@@ -20,7 +20,7 @@ Este projeto é um site de portfólio pessoal dividido em seções bem definidas
 ## 🚀 Funcionalidades
 
 - 🌐 Acesso rápido às minhas redes sociais:  
-  [![](https://skillicons.dev/icons?i=github) | [![](https://skillicons.dev/icons?i=instagram) | [![](https://skillicons.dev/icons?i=linkedin)
+  [![](https://skillicons.dev/icons?i=github)  [![](https://skillicons.dev/icons?i=instagram)  [![](https://skillicons.dev/icons?i=linkedin)
 
 - 📄 **Download de Currículo**  
   Um botão permite ao usuário baixar meu currículo em PDF com apenas um clique.
